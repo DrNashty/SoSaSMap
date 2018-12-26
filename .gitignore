@@ -82,6 +82,9 @@ DerivedDataCache/*
 Content/*
 !Content/Maps/
 !Content/Mods/
+!Content/Game/
+
+# Ignore Map stuff
 Content/Maps/*
 !Content/Maps/ConanSandbox/
 Content/Maps/ConanSandbox/*
@@ -94,3 +97,5 @@ Content/Maps/ConanSandbox/Art/Heightmap/*
 Content/Mods/*
 !/Content/Mods/SongofSwordandSorcery_ServerMap/
 !/Content/Maps/
+
+Content/Mods/SongofSwordandSorcery_ServerMap/Content/Maps/TestMaps/Marcos/AlmostEmpty.umap
