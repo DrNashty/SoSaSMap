@@ -82,20 +82,20 @@ DerivedDataCache/*
 Content/*
 !Content/Maps/
 !Content/Mods/
-# !Content/Game/
+!Content/Game/
 
 # Ignore Map stuff
-# Content/Maps/*
-# !Content/Maps/ConanSandbox/
-# Content/Maps/ConanSandbox/*
-# !Content/Maps/ConanSandbox/Art/
-# Content/Maps/ConanSandbox/Art/*
-# !Content/Maps/ConanSandbox/Art/Heightmap/
-# Content/Maps/ConanSandbox/Art/Heightmap/*
+Content/Maps/*
+!Content/Maps/ConanSandbox/
+Content/Maps/ConanSandbox/*
+!Content/Maps/ConanSandbox/Art/
+Content/Maps/ConanSandbox/Art/*
+!Content/Maps/ConanSandbox/Art/Heightmap/
+Content/Maps/ConanSandbox/Art/Heightmap/*
 
 # Ignore all in mods except important moded folder, and items in subdirectories
 Content/Mods/*
 !/Content/Mods/SongofSwordandSorcery_ServerMap/
-# !/Content/Maps/
+!/Content/Maps/
 
 Content/Mods/SongofSwordandSorcery_ServerMap/Content/Maps/TestMaps/Marcos/AlmostEmpty.umap
