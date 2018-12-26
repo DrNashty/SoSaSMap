@@ -91,7 +91,7 @@ Content/*
 # !Content/Maps/ConanSandbox/Art/
 # Content/Maps/ConanSandbox/Art/*
 # !Content/Maps/ConanSandbox/Art/Heightmap/
-#Content/Maps/ConanSandbox/Art/Heightmap/*
+# Content/Maps/ConanSandbox/Art/Heightmap/*
 
 # Ignore all in mods except important moded folder, and items in subdirectories
 Content/Mods/*
