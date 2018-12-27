@@ -1,7 +1,7 @@
 {
 	"name": "Song of Sword and Sorcery Server Mod",
 	"description": "The custom map for Song of Sword and Sorcery Server. Comes with a few custom modifications, listed here: https://github.com/BlankLink/SoSaSMap",
-	"changeNote": "",
+	"changeNote": "moved a rogue vultures nest",
 	"author": "Adahara and Blank",
 	"authorUrl": "https://songofswordandsorcery.enjin.com/",
 	"versionMajor": 1,
