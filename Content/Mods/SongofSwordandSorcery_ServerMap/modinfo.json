@@ -1,5 +1,5 @@
 {
-	"name": "SongofSwordandSorcery_ServerMap",
+	"name": "Song of Sword and Sorcery Server Mod",
 	"description": "The custom map for Song of Sword and Sorcery Server. Comes with a few custom modifications, listed here: https://github.com/BlankLink/SoSaSMap",
 	"changeNote": "",
 	"author": "Adahara and Blank",
@@ -8,8 +8,8 @@
 	"versionMinor": 0,
 	"versionBuild": 0,
 	"bRequiresLoadOnStartup": false,
-	"steamPublishedFileId": "",
-	"steamVisibility": 2,
+	"steamPublishedFileId": "1603623950",
+	"steamVisibility": 0,
 	"folderName": "SongofSwordandSorcery_ServerMap",
 	"revisionNumber": 117047,
 	"snapshotId": 20290
