@@ -14,3 +14,6 @@ This is the custom map mod for the Song of Sword and Sorcery Conan Exiles Rp Ser
 * Added ActorComponent to Mod_Controller
 * Added Equipment Data Table (SoSaS_EquipmentTable)
 * Added Merge Equiment Table into Mod_Controller
+* Added CustomPlaceableTest folder
+* Added Actor BP for Snake placeable test
+* Snake Test placeholder for future custom Pets (a Few hours of work/tweaking)
