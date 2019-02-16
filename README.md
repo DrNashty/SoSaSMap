@@ -17,4 +17,15 @@ This is the custom map mod for the Song of Sword and Sorcery Conan Exiles Rp Ser
 * Dog Mummy chestpiece
 * Ghost form chestpiece
 * Werewolf chestpiece
-* Added Actor BP for Snake placeable test
+* Derketo Skin (SoSaS-Derketo Form)
+* Mitra Skin (SoSaS-Mitra Form)
+* Derketo Cat Statue (Altered placement checkboxes)
+* Derketo Female Idol BP
+* Derketo Femlae Totem BP
+* Set Snake Totem BP
+* Mitran Ankh BP
+* Snake BP
+* Camel BP
+* BlackCat BP
+* SiCat BP
+* TabCat BP
