@@ -1,6 +1,5 @@
 {
 	"name": "Song of Sword Final",
-	"name": "SoSaS",
 	"description": "The custom map for Song of Sword and Sorcery Server. Comes with a few custom modifications, listed here: https://github.com/BlankLink/SoSaSMap",
 	"changeNote": "- fixed terrain",
 	"author": "Adahara and Blank",
