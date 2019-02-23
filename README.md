@@ -9,8 +9,4 @@ This is the custom map mod for the Song of Sword and Sorcery Conan Exiles Rp Ser
 * Removed all but one spawn location, moved it to the entrance to the Giant-King Outpost (above)
 * Gold bars now require 10 goldstone to craft
 * Silver bars now require 10 silverstone to craft
-* Market Tent placeable now available!
-* Added Actor Component (ActorComponent)
-* Added ActorComponent to Mod_Controller
-* Added Equipment Data Table (SoSaS_EquipmentTable)
-* Added Merge Equiment Table into Mod_Controller
+* Lots of custom gear, placeables, and weapons!
