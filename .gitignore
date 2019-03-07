@@ -73,7 +73,3 @@ Plugins/*/Intermediate/*
 # Cache files for the editor to use
 DerivedDataCache/*
 
-# Ignore all folders and files but Content and .gitignore
-/*
-!.gitignore
-Content/Maps/TestMaps/Marcos/AlmostEmpty.umap
