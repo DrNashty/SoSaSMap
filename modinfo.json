@@ -1,5 +1,5 @@
 {
-	"name": "Song of Sword and Sorcery Server Mod",
+	"name": "10/03/2019",
 	"description": "The custom map for Song of Sword and Sorcery Server. Comes with a few custom modifications, listed here: https://github.com/BlankLink/SoSaSMap",
 	"changeNote": "Re-enabled yellow lotus potion",
 	"author": "Adahara and Blank",
@@ -11,6 +11,6 @@
 	"steamPublishedFileId": "1603623950",
 	"steamVisibility": 0,
 	"folderName": "SongofSwordandSorcery_ServerMap",
-	"revisionNumber": 125123,
-	"snapshotId": 20650
+	"revisionNumber": 125304,
+	"snapshotId": 20672
 }
